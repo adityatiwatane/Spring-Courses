@@ -1,4 +1,4 @@
-package com.courses.spring.basics.springin5steps
+package com.courses.spring.basics.springin5steps;
 
 public class  BinarySearchImpl  {
     public int binarySearch(int[] numbers, int numbersToSearchFor) {
