@@ -1,7 +1,8 @@
 package com.courses.spring.basics.springin5steps;
+import org.springframework.stereotype.Component;
 
 @Component
-public class BubbleSortAlgorith implements SortAlgorithm{
+public class BubbleSortAlgorithm implements SortAlgorithm{
     public int[] sort(int[] numbers) {
         //logic for bubble sort 
        return numbers;
