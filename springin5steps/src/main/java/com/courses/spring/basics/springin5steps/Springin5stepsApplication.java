@@ -2,6 +2,7 @@ package com.courses.spring.basics.springin5steps;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context;
 
 @SpringBootApplication
 public class Springin5stepsApplication {
