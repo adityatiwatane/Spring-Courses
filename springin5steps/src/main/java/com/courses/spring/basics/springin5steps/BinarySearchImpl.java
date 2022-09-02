@@ -17,7 +17,7 @@ public class  BinarySearchImpl  {
        
         //BubbleSortAlgorithm bubbleSortAlgorithm = new BubbleSortAlgorithm();
         
-        int[] sortedNumbers =  bubbleSortAlgorithm.sort(numbers);
+        int[] sortedNumbers =  BubbleSortAlgorithm.sort(numbers);
         System.out.println(sortAlgorithm);
          //implementing sorting logic 
         //search the array
